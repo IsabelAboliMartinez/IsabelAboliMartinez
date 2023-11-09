@@ -6,7 +6,7 @@
 
 # Sobre Mi
 
-Hola, mi nombre es Isabel Aboli, actualmente estoy aprendiendo desarrollo Full Stack con FactoriaF5 Gijón y me emociona poder de compartir mi experiencia contigo. 
+Hola, mi nombre es Isabel Aboli y en la actualidad curso formación de desarrollo Full Stack con FactoriaF5 Gijón. 
 Me apasiona el desarrollo web y estoy trabajando duro para convertirme en una programadora versátil, dado que me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías. 
 
 ## Experiencia profesional
@@ -16,10 +16,12 @@ Ambos sectores profesionales me han aportado habilidades para trabajar en equipo
 
 ## Objetivos
 
-En la actualidad estoy reinventándome a mi misma a través de la formación, para mejorar profesionalmente en un ámbito que me permita desarrollar las destrezas adquiridas por la experiencia y aquellas que me aporten la formación global que realizo en estos momentos.  
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝</font></font> En la actualidad estoy reinventándome a mi misma a través de la formación, para mejorar personal y profesionalmente.
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font> Busco desarrollar las destrezas adquiridas por la experiencia y aquellas que me aporten la formación.
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👣</font></font> Me siento muy comoda realizando trabajos en equipo, y aprendo mucho con ellos.
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font> Espero poder completar este documento con un enfoque más profesional, en el transcurso del tiempo de la formación.
 
 
-Mi user flow:
 
 ```mermaid
 graph LR
@@ -27,5 +29,5 @@ A[Isabel Aboli] -- experiencia --> B((ayer))
 A[Isabel Aboli] -- formacion --> C((hoy))
 B --> D{=}
 C --> D
-D --> E(Objetivo)
+D --> E(Objetivo<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍀</font></font>)
 ```

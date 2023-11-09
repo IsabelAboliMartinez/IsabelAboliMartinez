@@ -1,6 +1,5 @@
 
-# Bienvenido/a a mi pequeño espacio!
-
+# Bienvenid@s a mi pequeño espacio!
 
 
 
@@ -15,13 +14,10 @@ Mi experiencia profesional se ha desarrollado en el ámbito de la atención al c
 Ambos sectores profesionales me han aportado habilidades para trabajar en equipo, comunicación proactiva y tolerancia del estrés en situaciones con abundante flujo de trabajo.   
 
 ## Objetivos
-
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝</font></font> En la actualidad estoy reinventándome a mi misma a través de la formación, para mejorar personal y profesionalmente.
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font> Busco desarrollar las destrezas adquiridas por la experiencia y aquellas que me aporten la formación.
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👣</font></font> Me siento muy comoda realizando trabajos en equipo, y aprendo mucho con ellos.
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font> Espero poder completar este documento con un enfoque más profesional, en el transcurso del tiempo de la formación.
-
-
+ - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝</font></font> En la actualidad estoy reinventándome a mi misma a través de la formación, para mejorar personal y profesionalmente.
+ - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font> Busco desarrollar las destrezas adquiridas por la experiencia y aquellas que me aporten la formación.
+ - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👣</font></font> Me siento muy comoda realizando trabajos en equipo, y aprendo mucho con ellos.
+ - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font> Espero poder completar este documento con un enfoque más profesional, en el transcurso del tiempo de la formación.
 
 ```mermaid
 graph LR

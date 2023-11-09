@@ -19,11 +19,12 @@ Ambos sectores profesionales me han aportado habilidades para trabajar en equipo
  - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👣</font></font> Me siento muy comoda realizando trabajos en equipo, y aprendo mucho con ellos.
  - <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚</font></font> Espero poder completar este documento con un enfoque más profesional, en el transcurso del tiempo de la formación.
 
+
 ```mermaid
 graph LR
 A[Isabel Aboli] -- experiencia --> B((ayer))
 A[Isabel Aboli] -- formacion --> C((hoy))
 B --> D{=}
 C --> D
-D --> E(Objetivo<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🍀</font></font>)
+D --> E(Objetivo)
 ```
